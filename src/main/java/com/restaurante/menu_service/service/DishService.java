@@ -1,10 +1,10 @@
 package com.restaurante.menu_service.service;
 
-import com.menu.service.dto.DishRequestDTO;
-import com.menu.service.dto.DishResponseDTO;
-import com.menu.service.dto.MessageResponseDTO;
-import com.menu.service.entity.Dish;
-import com.menu.service.repository.DishRepository;
+import com.restaurante.menu_service.dto.DishRequestDTO;
+import com.restaurante.menu_service.dto.DishResponseDTO;
+import com.restaurante.menu_service.dto.MessageResponseDTO;
+import com.restaurante.menu_service.entity.Dish;
+import com.restaurante.menu_service.repository.DishRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

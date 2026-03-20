@@ -1,9 +1,9 @@
-package com.restaurante.menu_service.Controller;
+package com.restaurante.menu_service.controller;
 
-import com.menu.service.dto.DishRequestDTO;
-import com.menu.service.dto.DishResponseDTO;
-import com.menu.service.dto.MessageResponseDTO;
-import com.menu.service.service.DishService;
+import com.restaurante.menu_service.dto.DishRequestDTO;
+import com.restaurante.menu_service.dto.DishResponseDTO;
+import com.restaurante.menu_service.dto.MessageResponseDTO;
+import com.restaurante.menu_service.service.DishService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
